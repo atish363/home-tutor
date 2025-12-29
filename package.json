@@ -8,7 +8,7 @@
     "dev": "next dev",
     "lint": "eslint .",
     "start": "next start",
-    "deplo":"gh-pages -d dist"
+    "deploy":"gh-pages -d dist"
 
   },
   "dependencies": {
